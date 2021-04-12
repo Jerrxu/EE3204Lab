@@ -1,3 +1,3 @@
 # EE3204Lab
 
-demonstration of TCP communication between two clients
+demonstration of TCP communication between a server and a client
